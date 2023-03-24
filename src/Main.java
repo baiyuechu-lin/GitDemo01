@@ -7,5 +7,6 @@ public class Main {
         System.out.println("master");
         System.out.println("master111222");
         System.out.println("running777...");
+        System.out.println("function-game-test...");
     }
 }
