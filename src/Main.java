@@ -10,5 +10,6 @@ public class Main {
         System.out.println("function-game-test...");
         System.out.println("push-test-master-test...");
         System.out.println("push-test-master-test22222...");
+        System.out.println("pull-test-to-local");
     }
 }
